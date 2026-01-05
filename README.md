@@ -3,16 +3,16 @@ Template
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A Ideia é criar Podcasts para criar aulas e mentoria a partir de documentos, apresentação, etc.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+NotebookLM e Gemini 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o Gemini para criar e auxiliar no resumo da informação e o NotebokLM para criar o podcast em formato de audio
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Atraves do podcast a leitura cansativa foi transmada em um debate em forma de Podcast e com isso deixando mais facil a absorção da informação.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Hoje as tecnologias estão muito perto da realizade mas ainda é perseptivel quando é criado por IA. Nos gestos das mão, posicionamento corporal e alguns outros detalhes.
