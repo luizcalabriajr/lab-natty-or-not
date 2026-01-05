@@ -1,6 +1,7 @@
 # lab-natty-or-not
 Template
 # Título do Projeto Extremamente Aesthetic ;)
+Trasformando leitura cansativa em formato de audio
 
 ## 📒 Descrição
 A Ideia é criar Podcasts para criar aulas e mentoria a partir de documentos, apresentação, etc.
